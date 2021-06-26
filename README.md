@@ -23,7 +23,7 @@
 }
 
 .isi{
-				width:60%;
+				width:75%;
 				margin:auto;
 				display:block;
 				color:white;
