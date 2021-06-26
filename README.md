@@ -93,7 +93,7 @@
 								<p class="lahir">Lahir: 22 Agustus 2004</p>
 								<p class="status">Status: Pelajar</p>
 								<br>
-								<p class="bio">SEKERAS APAPUN USAHA KAMU KAMU AKAN KALAH DENGAN ORANG DALAM</p>
+								<p class="bio"><em>SEKERAS APAPUN USAHA KAMU KAMU AKAN KALAH DENGAN ORANG DALAM</em></p>
 								<hr>
 								<div class="sosmed">
 		<ul>
