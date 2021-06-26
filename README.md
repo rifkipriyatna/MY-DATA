@@ -85,7 +85,7 @@
 				<div class="atas">
 								<p class="data">MY DATA</p> <br>			
 				</div>
-				<br><br>
+				<br><br><br>
 				<div class="isi">
 								<img src="https://raw.githubusercontent.com/rifkipriyatna/MY-DATA/main/ikiii.jpg" class="foto">
 								<p class="nama">Nama: Rifki Priyatna</p>
