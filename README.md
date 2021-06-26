@@ -97,7 +97,7 @@
 								<hr>
 								<div class="sosmed">
 		<ul>
-					<li><a href="https://www.instagram.com/invites/contact/?i=8z0pugk0jumb&utm_content=3f70xoh"><img src="https://raw.githubusercontent.com/rifkipriyatna/MY-DATA/main/ig.jpeg" class="ig"></a>
+					<li><a href="https://www.instagram.com/invites/contact/?i=fb9d86v7vdi8&utm_content=3f70xoh"><img src="https://raw.githubusercontent.com/rifkipriyatna/MY-DATA/main/ig.jpeg" class="ig"></a>
 					
 									<a href="https://www.facebook.com/profile.php?id=100011548591895"><img src="https://raw.githubusercontent.com/rifkipriyatna/MY-DATA/main/fb.png" class="fb"></a>
 							
