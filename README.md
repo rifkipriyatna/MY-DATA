@@ -47,7 +47,7 @@
 .sosmed ul li{
 				display:inline-block;
 				text-decoration:none;
-				
+				margin-left:-10%;
 				
 				opacity:0.95;
 }
@@ -83,7 +83,7 @@
 </head>
 <body>
 				<div class="atas">
-								<p class="data">MY DATA</p>			
+								<p class="data">MY DATA</p> <br>			
 				</div>
 				<br><br>
 				<div class="isi">
