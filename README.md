@@ -48,7 +48,7 @@
 				display:inline-block;
 				text-decoration:none;
 				margin-left:-14%;
-				margin-right:10%;
+				
 				opacity:0.95;
 }
 
