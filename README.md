@@ -105,7 +105,7 @@
 				  				<a href="https://youtube.com/channel/UCVYoaKAPM9-4IlNA91fpUVg"><img src="https://raw.githubusercontent.com/rifkipriyatna/MY-DATA/main/ytt.jpg" class="yt"></a>
 				  				
 				  
-				  				<a href="https://wa.me/qr/PFZ5F7WWOLIOE1"><img src="https://raw.githubusercontent.com/rifkipriyatna/MY-DATA/main/wa.jpg" class="wa"></a>
+				  				<a href="wa.me/6281324357399"><img src="https://raw.githubusercontent.com/rifkipriyatna/MY-DATA/main/wa.jpg" class="wa"></a>
 				  				
 				  				<a href="https://discord.gg/rW46d9c"><img src="https://raw.githubusercontent.com/rifkipriyatna/MY-DATA/main/dc.png" class="dc"></a>
 				  </li>			
