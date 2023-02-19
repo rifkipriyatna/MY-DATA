@@ -89,11 +89,11 @@
 				<div class="isi">
 								<img src="https://raw.githubusercontent.com/rifkipriyatna/MY-DATA/main/ikiii.jpg" class="foto">
 								<p class="nama">Nama: Rifki Priyatna</p>
-								<p class="umur">Umur: 17 Tahun</p>
+								<p class="umur">Umur: 18 Tahun</p>
 								<p class="lahir">Lahir: 22 Agustus 2004</p>
-								<p class="status">Status: Pelajar</p>
+								<p class="status">Status: Solo</p>
 								<br>
-								<p class="bio"><em>SEKERAS APAPUN USAHA KAMU KAMU AKAN KALAH DENGAN ORANG DALAM</em></p>
+								<p class="bio"><em>Tetap Semangat Dan Selalu Berusaha</em></p>
 								<hr>
 								<div class="sosmed">
 		<ul>
